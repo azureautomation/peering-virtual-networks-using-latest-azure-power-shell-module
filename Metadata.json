@@ -1,0 +1,20 @@
+{
+    "Author": "YASWANTHM-MSFT",
+    "ContentSize": 1770,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/peering-virtual-networks-using-latest-azure-power-shell-module/master/Peering%20virtual%20network.ps1",
+    "DownloadCount": 483,
+    "Id": "CREATING-PEERING-FROM-cd9acd2f",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 401,
+    "RaterCount": 2,
+    "Rating": 4.0,
+    "ReleaseDate": "2019-2-19T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "VNet Peering allows two VNets in the same region or other region to connect with each other without having to set up the VPN Gateways.",
+    "Title": "Peering virtual networks using latest azure power shell module",
+    "UpdatedDate": "2019-2-19T00:00:00",
+    "Url": "https://github.com/azureautomation/peering-virtual-networks-using-latest-azure-power-shell-module",
+    "UserTags": "Azure, Microsoft Azure, Powershell"
+}
